@@ -46,7 +46,7 @@ learning: Advanced ML models & LLM integration
 fun_fact: I automate everything I find myself doing twice
 ```
 
-- 🔭 Final Year CS Student building production-grade systems
+- 🔭 Software Engineer building production-grade systems
 - 💡 Proficient in **Full Stack Development** across MERN, Next.js, and more
 - 🕷️ Experienced in **Web Scraping** — from lightweight scripts to large-scale crawlers
 - 🤖 Exploring **AI/ML** — working with models, automation & intelligent tooling
