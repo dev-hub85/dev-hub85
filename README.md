@@ -25,9 +25,9 @@
   Passionate about clean architecture, automation, and solving real-world problems.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/your-facebook)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdul-rehman-3b9213319))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com/your-instagram](https://www.instagram.com/arehman615?igsh=bHB0dHQzYmhlZmln))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com/your-facebook](https://www.facebook.com/abdul.rehman.109166))
 
 <img src="https://komarev.com/ghpvc/?username=dev-hub85&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -41,7 +41,7 @@
 name: Abdul Rehman
 role: Software Engineer
 focus: [Full Stack Development, Web Scraping, AI/ML]
-currently_building: Vulnerability Benchmark System (FYP)
+currently_building: POS Project
 learning: Advanced ML models & LLM integration
 fun_fact: I automate everything I find myself doing twice
 ```
@@ -63,7 +63,7 @@ fun_fact: I automate everything I find myself doing twice
 | 👾 **[NeoGames](https://www.neogames.space/)** | HTML5 Games Site | Next.js |
 | 🏢 **HR & Fleet Management** | CRM system for a KSA-based company | Next.js, PostgreSQL |
 | 🛍️ **[DanielsBelieve](https://www.danielsbelieve.de/)** | E-commerce platform for clothing | Next.js, Node.js |
-| 🏢 **[Nas Creative Construction Portfolio]([https://dietracart.vercel.app](https://construction-site-psi-two.vercel.app/)/)** | Nas Creative Construction Site Portfolio | Next.js , Supabase |
+| 🏢 **[Nas Creative Construction Portfolio](https://construction-site-psi-two.vercel.app/)** | Nas Creative Construction Site Portfolio | Next.js , Supabase |
 | 🏥 **Hospital Management System** | Manage patients, staff & records | C#, .NET, SQL Server |
 
 ---
@@ -89,9 +89,8 @@ fun_fact: I automate everything I find myself doing twice
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
@@ -103,7 +102,6 @@ fun_fact: I automate everything I find myself doing twice
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -118,6 +116,7 @@ fun_fact: I automate everything I find myself doing twice
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Turso-%234F5B93.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
@@ -127,8 +126,6 @@ fun_fact: I automate everything I find myself doing twice
 ### 🕷️ Web Scraping & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrapy-%2360A839.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-%23CB0?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -145,7 +142,6 @@ fun_fact: I automate everything I find myself doing twice
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ---
@@ -153,10 +149,8 @@ fun_fact: I automate everything I find myself doing twice
 ### ☁️ DevOps, Cloud & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
