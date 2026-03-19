@@ -193,6 +193,32 @@ fun_fact: I automate everything I find myself doing twice
 </div>
 
 ---
+---
+ 
+## 📬 Contact Me
+ 
+<div align="center">
+ 
+Got a project in mind, a collaboration idea, or just want to say hi? Feel free to reach out!
+ 
+| Channel | Link |
+|--------|------|
+| 🌐 **Portfolio** | [abdulrehman-dev-hub85.vercel.app](https://abdulrehman-dev-hub85.vercel.app/) |
+| 📧 **Email (Primary)** | [arehman8125@gmail.com](mailto:arehman8125@gmail.com) |
+| 📧 **Email (Secondary)** | [arehman652786@gmail.com](mailto:arehman652786@gmail.com) |
+| 💼 **LinkedIn** | [abdul-rehman-3b9213319](https://www.linkedin.com/in/abdul-rehman-3b9213319) |
+| 📸 **Instagram** | [@arehman615](https://www.instagram.com/arehman615?igsh=bHB0dHQzYmhlZmln) |
+| 👤 **Facebook** | [Abdul Rehman](https://www.facebook.com/abdul.rehman.109166) |
+ 
+<br/>
+ 
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-abdulrehman--dev--hub85.vercel.app-black?style=for-the-badge&logo=vercel)](https://abdulrehman-dev-hub85.vercel.app/)
+[![Email 1](https://img.shields.io/badge/📧_arehman8125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arehman8125@gmail.com)
+[![Email 2](https://img.shields.io/badge/📧_arehman652786@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arehman652786@gmail.com)
+ 
+</div>
+ 
+---
 
 ## 💬 Random Dev Quote
 
